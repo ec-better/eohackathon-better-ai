@@ -1,0 +1,5 @@
+2019-11-05 19:26:10-INF[        <stdin>:       <module>():  1] Classifying file 23_clip00229 1/1
+2019-11-05 19:26:14-INF[        <stdin>:       <module>():  1] classification
+2019-11-05 19:26:14-INF[        <stdin>:       <module>():  1] Classifying with model model_Aerial_unet_0_128x128_mrg0_lr0.0001_fs12_bs2000_regDropout_NIR_20190910.h5
+2019-11-05 19:26:14-INF[        <stdin>:       <module>():  1] Classifying tile 1/1
+2019-11-05 19:26:34-INF[        <stdin>:       <module>():  1] Saving classification_single_file results to file: data/classification_output/23_clip00229_model_Aerial_unet_0_128x128_mrg0_lr0_classification.tif

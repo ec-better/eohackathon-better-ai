@@ -1,0 +1,34 @@
+2019-11-07 15:40:03-INF[<ipython-input-:       <module>():  2] Classifying file 23_clip00229 1/1
+2019-11-07 15:42:19-INF[<ipython-input-:       <module>():  2] Classifying file 23_clip00229 1/1
+2019-11-07 15:42:49-INF[<ipython-input-:       <module>():  2] Classifying file 23_clip00229 1/1
+2019-11-07 15:42:52-INF[<ipython-input-:       <module>():  2] classification
+2019-11-07 15:42:52-INF[<ipython-input-:       <module>():  2] Classifying with model model_Aerial_unet_0_128x128_mrg0_lr0.0001_fs12_bs2000_regDropout_NIR_20190910.h5
+2019-11-07 15:42:52-INF[<ipython-input-:       <module>():  2] Classifying tile 1/1
+2019-11-07 15:43:10-INF[<ipython-input-:       <module>():  2] Saving classification_single_file results to file: data/classification_output/23_clip00229_model_Aerial_unet_0_128x128_mrg0_lr0_classification.tif
+2019-11-07 15:47:02-INF[<ipython-input-:       <module>():  2] 1/26 crops
+2019-11-07 15:47:02-INF[<ipython-input-:       <module>():  2] 2/26 crops
+2019-11-07 15:47:02-INF[<ipython-input-:       <module>():  2] 3/26 crops
+2019-11-07 15:47:02-INF[<ipython-input-:       <module>():  2] 4/26 crops
+2019-11-07 15:47:02-INF[<ipython-input-:       <module>():  2] 5/26 crops
+2019-11-07 15:47:02-INF[<ipython-input-:       <module>():  2] 6/26 crops
+2019-11-07 15:47:02-INF[<ipython-input-:       <module>():  2] 7/26 crops
+2019-11-07 15:47:02-INF[<ipython-input-:       <module>():  2] 8/26 crops
+2019-11-07 15:47:02-INF[<ipython-input-:       <module>():  2] 9/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 10/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 11/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 12/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 13/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 14/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 15/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 16/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 17/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 18/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 19/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 20/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 21/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 22/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 23/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 24/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 25/26 crops
+2019-11-07 15:47:03-INF[<ipython-input-:       <module>():  2] 26/26 crops
+2019-11-07 15:54:44-INF[<ipython-input-:       <module>():  2] Saved outputs to data/step2_op

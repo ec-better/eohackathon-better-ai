@@ -1,0 +1,2 @@
+--- Environment_BETTER_AI.yaml is the required conda environment.
+--- After preparing the environment please follow the experiment.ipynb instruction.

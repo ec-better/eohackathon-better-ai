@@ -1,0 +1,20 @@
+name: env_dmuk_ml
+channels:
+  - anaconda
+  - https://conda.binstar.org/r
+  - https://conda.binstar.org/terradue
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.6
+  - cioppy
+  - ipykernel
+  - gdal=3.0.1
+  - geopandas
+  - pandas
+  - numpy
+  - geos
+  - shapely
+  - fiona
+prefix: /workspace/.conda/envs/env_dmuk_ml
+

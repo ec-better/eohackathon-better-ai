@@ -3,7 +3,7 @@ Contains material and instructions necessary to recreate the Machine Learning/AI
 
 Land cover changes and inter-annual vegetation performance analysis using ML algorithms
 
-### Getting the experiment
+## Getting the experiment
 
 This experiment is hosted in a software repository.
 
@@ -15,25 +15,25 @@ git clone https://github.com/ec-better/eohackathon-better-ai
 cd better_ai
 ```
 
-### Configuring the Python conda environment
+### Configuring the Python conda environment for experiment.ipynb
 
-The file `environment.yml` contains the Python conda environment for running the notebooks contained in this folder.
+The file `env_dmuk_ml.yml` contains the Python conda environment for running the notebooks contained in this folder.
 
 From the shell, run:
 
 ```bash
-conda env create --file=environment.yml
+conda env create --file=env_dmuk_ml.yml
 ```
 
 Once the environment configuration is done, you can activate it:
 
 ```bash
-conda activate env_better_ai
+conda activate env_dmuk_ml
 ```
 
 ### Running the experiment
 
-Open the `environment.ipynb` notebook and update the kernel to use `env_better_ai`
+Open the `environment.ipynb` notebook and update the kernel to use `env_dmuk_ml`
 
 Run the experiment by executing each of the cells with `shift` + `Enter`.
 
@@ -71,3 +71,30 @@ Finally, do a release with:
 ```bash
 ciop-release
 ```
+
+## Getting the better ai
+
+
+### Configuring the Python conda environment for BetterAI.ipynb
+
+The file `env_better_ai.yml` contains the Python conda environment for running the notebooks contained in this folder.
+
+From the shell, run:
+
+```bash
+conda env create --file=env_better_ai.yml
+```
+
+Once the environment configuration is done, you can activate it:
+
+```bash
+conda activate better_ai
+```
+
+### Running the betterAI
+
+Open the `BetterAI.ipynb` notebook and update the kernel to use `better_ai`
+
+Run the experiment by executing each of the cells with `shift` + `Enter`.
+
+Good luck! 
